@@ -10,3 +10,6 @@ Script Bom untuk Nomor telkomsel
 # view
 
 ![image](https://user-images.githubusercontent.com/27518397/39696740-7bfd20e6-51a3-11e8-8988-7ca5a2c216f6.png)
+
+# Video
+https://youtu.be/gt6gvx09q1U
